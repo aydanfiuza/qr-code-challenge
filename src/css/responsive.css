@@ -1,0 +1,18 @@
+@media (max-width: 300px) {
+    .container .qr-code-container {
+        width: 200px;
+        height: 380px;
+    }
+
+    .container .qr-code-img {
+        width: 70%;
+    }
+
+    .container .qr-code-title {
+        font-size: 18px;
+    }
+
+    .container .qr-code-info {
+        font-size: 85%;
+    }
+}
